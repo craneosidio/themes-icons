@@ -1,0 +1,18 @@
+[submodule "iris"]
+	path = THEMES/iris
+	url = https://github.com/xyl0n/iris/
+[submodule "iris-light"]
+	path = THEMES/iris-light
+	url = https://github.com/xyl0n/iris-light
+[submodule "vivant-gtk"]
+	path = THEMES/vivant-gtk
+	url = https://github.com/xyl0n/vivant-gtk
+[submodule "ICONS/ozon-icon-theme"]
+	path = ICONS/ozon-icon-theme
+	url = https://github.com/xyl0n/ozon-icon-theme
+[submodule "THEMES/iris-lychee"]
+	path = THEMES/iris-lychee
+	url = https://github.com/xyl0n/iris-lychee
+[submodule "ICONS/vivant-icons"]
+	path = ICONS/vivant-icons
+	url = https://github.com/xyl0n/vivant-icons
