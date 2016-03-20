@@ -85,3 +85,6 @@
 [submodule "ICONS/mint-x-icons"]
 	path = ICONS/mint-x-icons
 	url = https://github.com/linuxmint/mint-x-icons
+[submodule "ICONS/elementary-xfce"]
+	path = ICONS/elementary-xfce
+	url = https://github.com/shimmerproject/elementary-xfce
