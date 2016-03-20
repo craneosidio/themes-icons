@@ -16,3 +16,36 @@
 [submodule "ICONS/vivant-icons"]
 	path = ICONS/vivant-icons
 	url = https://github.com/xyl0n/vivant-icons
+[submodule "THEMES/BleuFear"]
+	path = THEMES/BleuFear
+	url = https://github.com/maxfierke/BleuFear
+[submodule "THEMES/Orion"]
+	path = THEMES/Orion
+	url = https://github.com/shimmerproject/Orion
+[submodule "THEMES/Bluebird"]
+	path = THEMES/Bluebird
+	url = https://github.com/shimmerproject/Bluebird
+[submodule "THEMES/Albatross"]
+	path = THEMES/Albatross
+	url = https://github.com/shimmerproject/Albatross
+[submodule "THEMES/Blackbird"]
+	path = THEMES/Blackbird
+	url = https://github.com/shimmerproject/Blackbird
+[submodule "THEMES/Evolve"]
+	path = THEMES/Evolve
+	url = https://github.com/satya164/Evolve
+[submodule "THEMES/Greybird"]
+	path = THEMES/Greybird
+	url = https://github.com/shimmerproject/Greybird
+[submodule "THEMES/Arc-theme"]
+	path = THEMES/Arc-theme
+	url = https://github.com/horst3180/Arc-theme
+[submodule "THEMES/zuki-themes"]
+	path = THEMES/zuki-themes
+	url = https://github.com/lassekongo83/zuki-themes
+[submodule "bunsen-themes"]
+	path = bunsen-themes
+	url = https://github.com/BunsenLabs/bunsen-themes
+[submodule "THEMES/deb8-theme"]
+	path = THEMES/deb8-theme
+	url = https://github.com/BunsenLabs/deb8-theme
