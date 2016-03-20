@@ -1,0 +1,105 @@
+***********************************************************************
+*								      *
+*	FAENZA-FRESH EXTENSION PACK				      *
+*	~Creating Faenza icons for EVERYTHING...		      *
+*								      *
+*	V0.2							      *
+*	16/06/2011						      *
+*	by tobias bernard					      *
+*								      *
+***********************************************************************
+
+Have you ever installed a new, cool app and then discovered that there is no Faenza icon for it?
+Probably yes.
+This is why Faenza-Fresh exists. The goal of this extension set is to provide Faenza icons for anything the actual official icon pack doesn't include icons for and, if the official icon for something doesn't look good, provide a better one.
+The long-term-goal is that these or similar icons get included in the official Faenza icon set, so that every application, device, action or whatever has a Faenza icon.
+
+
+Faenza Fresh currently includes about 90 icons for applications, with many new icons (which Faenza doesn't include yet) such as Jack, Code::Blocks, Kompozer, Git or Scribes but also many reworked Faenza icons such as Firefox, LibreOffice (well, not exactly; my Faenza Libreoffice icons existed before the official ones), Pidgin, Banshee or Inkscape.
+ 
+
+***********************************************************************
+*								      *
+*	INSTALLATION:						      *
+*								      *
+***********************************************************************
+
+1)	Personal (just for you): Copy the "Faenza-Fresh"-folder into the folder /home/yourname/.icons/
+	System (for every user): Copy the "Faenza-Fresh"-folder into the folder /usr/share/icons/
+
+2)	After that, use "Faenza-Fresh" instead of "Faenza" as your icon theme.
+
+3)	Enjoy your new icons!
+
+
+
+By default, if Faenza-Cupertino (the blue Faenza folders) is installed, that folders are used. if you like the official ones better, change the "Inherits" in the index.theme. Just delete "Faenza-Cupertino" in that line.
+
+***********************************************************************
+
+
+
+Most of the icons are completely done by me, but some include the official logo/icon, the original Faenza icon of the program or some other (opensource licensed) artwork.
+
+Firefox: 		Official SVG logo from Wikipedia
+Pidgin:			Based on an inofficial Pidgin icon by AJ Ashton [http://gnome-look.org/content/show.php/Pidgin+Oxygen+Style?content=84627%29] 
+Inkscape:		Official logo
+Banshee:		Faenza icon with replaced Banshee logo
+OMG!Words!:		Official icon
+Mono:			Official logo
+Alchemy:		Official logo
+Eagle:			Official logo
+Gespeaker:		Official logo
+Kompozer:		Includes Parts of the Firefox logo and the official logo
+Emerillon:		Includes Parts of the Firefox logo
+Mumble:			Changed Official icon
+Seamonkey:		Official logo
+Supertux:		"Crysal Tux" by Jan Vansteenkiste based on tutorial provided by crystalxp.net [http://fr.wikipedia.org/wiki/Fichier:Tux-G2.png]
+Synfig:			Official logo
+Wesnoth:		Official icon
+Synapse:		Official icon
+PDF-Mod:		Parts from other Faenza icons
+
+Nexuiz:			Official logo
+Xonotic:		Official logo
+Anki:			parts of the official icon
+
+
+***********************************************************************
+*								      *
+*	Known issues 						      *
+*								      *
+***********************************************************************
+
+Some Icons currently don't work (if you know why and how this could be fixed, let me know):
+
+Fontforge
+Alchemy
+Wesnoth
+Synfig
+MeMaker
+TeamViewer
+Dolphin
+Gespeaker
+Git-Cola
+Goldendict
+Gresistor
+Gunity
+Hydrogen
+Jack Rack
+Jack EQ
+MuseScore
+Oregano
+Unison
+Xoscope
+
+Synapse icon replaces monochromatic panel icon
+small-sized icons aren't perfect (i didn't want to loose too much time on doing that since in both GNOME Shell and Unity applications don't need small icons)
+
+***********************************************************************
+
+If one of your favourite apps doesn't have a Faenza icon, feel free to contact me, so maybe the next version will include it;)
+
+CONTACT:
+Tobias Bernard
+bertob93@gmail.com
