@@ -73,3 +73,15 @@
 [submodule "ICONS/pacifica-icon-theme"]
 	path = ICONS/pacifica-icon-theme
 	url = https://github.com/fsvh/pacifica-icon-theme
+[submodule "THEMES/mint-y-theme"]
+	path = THEMES/mint-y-theme
+	url = https://github.com/linuxmint/mint-y-theme
+[submodule "THEMES/mint-themes-gtk3"]
+	path = THEMES/mint-themes-gtk3
+	url = https://github.com/linuxmint/mint-themes-gtk3
+[submodule "ICONS/mint-y-icons"]
+	path = ICONS/mint-y-icons
+	url = https://github.com/linuxmint/mint-y-icons
+[submodule "ICONS/mint-x-icons"]
+	path = ICONS/mint-x-icons
+	url = https://github.com/linuxmint/mint-x-icons
