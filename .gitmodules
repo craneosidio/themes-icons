@@ -44,8 +44,32 @@
 	path = THEMES/zuki-themes
 	url = https://github.com/lassekongo83/zuki-themes
 [submodule "bunsen-themes"]
-	path = bunsen-themes
+	path = THEMES/bunsen-themes
 	url = https://github.com/BunsenLabs/bunsen-themes
 [submodule "THEMES/deb8-theme"]
 	path = THEMES/deb8-theme
 	url = https://github.com/BunsenLabs/deb8-theme
+[submodule "ICONS/betelgeuse"]
+	path = ICONS/betelgeuse
+	url = https://gitorious.org/betelgeuse/betelgeuse-sources.git
+[submodule "ICONS/moka-icon-theme"]
+	path = ICONS/moka-icon-theme
+	url = https://github.com/snwh/moka-icon-theme
+[submodule "ICONS/numix-icon-theme-utouch"]
+	path = ICONS/numix-icon-theme-utouch
+	url = https://github.com/numixproject/numix-icon-theme-utouch
+[submodule "ICONS/numix-icon-theme-shine"]
+	path = ICONS/numix-icon-theme-shine
+	url = https://github.com/numixproject/numix-icon-theme-shine
+[submodule "ICONS/numix-icon-theme"]
+	path = ICONS/numix-icon-theme
+	url = https://github.com/numixproject/numix-icon-theme
+[submodule "ICONS/numix-icon-theme-circle"]
+	path = ICONS/numix-icon-theme-circle
+	url = https://github.com/numixproject/numix-icon-theme-circle
+[submodule "ICONS/flattr-icons"]
+	path = ICONS/flattr-icons
+	url = https://github.com/NitruxSA/flattr-icons
+[submodule "ICONS/pacifica-icon-theme"]
+	path = ICONS/pacifica-icon-theme
+	url = https://github.com/fsvh/pacifica-icon-theme
