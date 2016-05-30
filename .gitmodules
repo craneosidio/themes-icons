@@ -103,3 +103,6 @@
 [submodule "ICONS/Super-Flat-Remix"]
 	path = ICONS/Super-Flat-Remix
 	url = https://github.com/daniruiz/Super-Flat-Remix
+[submodule "THEMES/Adapta"]
+	path = THEMES/Adapta
+	url = https://github.com/tista500/Adapta
