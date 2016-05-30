@@ -88,3 +88,18 @@
 [submodule "ICONS/elementary-xfce"]
 	path = ICONS/elementary-xfce
 	url = https://github.com/shimmerproject/elementary-xfce
+[submodule "ICONS/evil-icons"]
+	path = ICONS/evil-icons
+	url = https://github.com/outpunk/evil-icons
+[submodule "THEMES/paper-gtk-theme"]
+	path = THEMES/paper-gtk-theme
+	url = https://github.com/snwh/paper-gtk-theme
+[submodule "FONTS/Hack"]
+	path = FONTS/Hack
+	url = https://github.com/chrissimpkins/Hack
+[submodule "THEMES/Centauri"]
+	path = THEMES/Centauri
+	url = https://github.com/vval/centauri_gtk_theme
+[submodule "ICONS/Super-Flat-Remix"]
+	path = ICONS/Super-Flat-Remix
+	url = https://github.com/daniruiz/Super-Flat-Remix
