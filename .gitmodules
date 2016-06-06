@@ -38,7 +38,7 @@
 	path = THEMES/Greybird
 	url = https://github.com/shimmerproject/Greybird
 [submodule "THEMES/Arc-theme"]
-	path = THEMES/Arc-theme
+	path = THEMES/Arc
 	url = https://github.com/horst3180/Arc-theme
 [submodule "THEMES/zuki-themes"]
 	path = THEMES/zuki-themes
