@@ -94,9 +94,6 @@
 [submodule "THEMES/paper-gtk-theme"]
 	path = THEMES/paper-gtk-theme
 	url = https://github.com/snwh/paper-gtk-theme
-[submodule "FONTS/Hack"]
-	path = FONTS/Hack
-	url = https://github.com/chrissimpkins/Hack
 [submodule "THEMES/Centauri"]
 	path = THEMES/Centauri
 	url = https://github.com/vval/centauri_gtk_theme
@@ -106,3 +103,15 @@
 [submodule "THEMES/Adapta"]
 	path = THEMES/Adapta
 	url = https://github.com/tista500/Adapta
+[submodule "conky"]
+	path = conky
+	url = https://github.com/nodiscc/conkyselect
+[submodule "xresources/crayolo"]
+	path = xresources/crayolo
+	url = https://github.com/dkeg/crayolo
+[submodule "ICONS/faba-mono-icons"]
+	path = ICONS/faba-mono-icons
+	url = https://github.com/moka-project/faba-mono-icons
+[submodule "ICONS/faba-icon-theme"]
+	path = ICONS/faba-icon-theme
+	url = https://github.com/moka-project/faba-icon-theme
