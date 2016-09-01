@@ -115,3 +115,6 @@
 [submodule "ICONS/faba-icon-theme"]
 	path = ICONS/faba-icon-theme
 	url = https://github.com/moka-project/faba-icon-theme
+[submodule "ICONS/luv-icon-theme"]
+	path = ICONS/luv-icon-theme
+	url = https://github.com/NitruxSA/luv-icon-theme
