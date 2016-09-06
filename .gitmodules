@@ -100,9 +100,6 @@
 [submodule "THEMES/Adapta"]
 	path = THEMES/Adapta
 	url = https://github.com/tista500/Adapta
-[submodule "conky"]
-	path = conky
-	url = https://github.com/nodiscc/conkyselect
 [submodule "xresources/crayolo"]
 	path = xresources/crayolo
 	url = https://github.com/dkeg/crayolo
