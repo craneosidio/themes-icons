@@ -118,3 +118,12 @@
 [submodule "ICONS/CaptainIcon"]
 	path = ICONS/CaptainIcon
 	url = https://github.com/mariodelvalle/CaptainIcon
+[submodule "ICONS/vertex-icons"]
+	path = ICONS/vertex-icons
+	url = https://github.com/horst3180/vertex-icons
+[submodule "THEMES/vertex-theme"]
+	path = THEMES/vertex-theme
+	url = https://github.com/horst3180/vertex-theme
+[submodule "ICONS/papirus-icon-theme-gtk"]
+	path = ICONS/papirus-icon-theme-gtk
+	url = https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
