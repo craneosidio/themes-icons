@@ -1,0 +1,36 @@
+!RXVT Settings
+URxvt.font:xft:berry:size=8
+URxvt.boldFont:xft:berry:size=8
+URxvt.scrollBar: false
+URxvt.letterSpace: 0
+URxvt*scrollTtyOutput: false
+URxvt*urlLauncher: firefox
+URxvt.depth: 16
+URxvt.cursorBlink: 0
+URxvt.cursorUnderline: 1
+URxvt*saveLines: 65535
+URxvt*termName: rxvt
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.perl-ext-common: default,clipboard
+
+! Terminal colors
+! basic scheme
+*background: #151515
+*foreground: #d8d8d8
+*color0: #a5a5a5
+*color1: #8c5b3e
+*color2: #80764d
+*color3: #917154
+*color4: #596875
+*color5: #6e464b
+*color6: #3b585b
+*color7: #252525
+*color8: #505050
+*color9: #9f6744
+*color10: #80785a
+*color11: #917963
+*color12: #656d75
+*color13: #6e5155
+*color14: #525F61
+*color15: #888888
