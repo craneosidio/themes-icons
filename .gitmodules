@@ -49,9 +49,6 @@
 [submodule "THEMES/deb8-theme"]
 	path = THEMES/deb8-theme
 	url = https://github.com/BunsenLabs/deb8-theme
-[submodule "ICONS/betelgeuse"]
-	path = ICONS/betelgeuse
-	url = https://gitorious.org/betelgeuse/betelgeuse-sources.git
 [submodule "ICONS/moka-icon-theme"]
 	path = ICONS/moka-icon-theme
 	url = https://github.com/snwh/moka-icon-theme
