@@ -124,3 +124,6 @@
 [submodule "ICONS/papirus-icon-theme-gtk"]
 	path = ICONS/papirus-icon-theme-gtk
 	url = https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+[submodule "ICONS/victory-icon-theme"]
+	path = ICONS/victory-icon-theme
+	url = https://github.com/newhoa/victory-icon-theme
