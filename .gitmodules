@@ -1,129 +1,171 @@
 [submodule "iris"]
 	path = THEMES/iris
 	url = https://github.com/xyl0n/iris/
+	shallow = true
 [submodule "iris-light"]
 	path = THEMES/iris-light
 	url = https://github.com/xyl0n/iris-light
+	shallow = true
 [submodule "vivant-gtk"]
 	path = THEMES/vivant-gtk
 	url = https://github.com/xyl0n/vivant-gtk
+	shallow = true
 [submodule "ICONS/ozon-icon-theme"]
 	path = ICONS/ozon-icon-theme
 	url = https://github.com/xyl0n/ozon-icon-theme
+	shallow = true
 [submodule "THEMES/iris-lychee"]
 	path = THEMES/iris-lychee
 	url = https://github.com/xyl0n/iris-lychee
+	shallow = true
 [submodule "ICONS/vivant-icons"]
 	path = ICONS/vivant-icons
 	url = https://github.com/xyl0n/vivant-icons
+	shallow = true
 [submodule "THEMES/BleuFear"]
 	path = THEMES/BleuFear
 	url = https://github.com/maxfierke/BleuFear
+	shallow = true
 [submodule "THEMES/Orion"]
 	path = THEMES/Orion
 	url = https://github.com/shimmerproject/Orion
+	shallow = true
 [submodule "THEMES/Bluebird"]
 	path = THEMES/Bluebird
 	url = https://github.com/shimmerproject/Bluebird
+	shallow = true
 [submodule "THEMES/Albatross"]
 	path = THEMES/Albatross
 	url = https://github.com/shimmerproject/Albatross
+	shallow = true
 [submodule "THEMES/Blackbird"]
 	path = THEMES/Blackbird
 	url = https://github.com/shimmerproject/Blackbird
+	shallow = true
 [submodule "THEMES/Evolve"]
 	path = THEMES/Evolve
 	url = https://github.com/satya164/Evolve
+	shallow = true
 [submodule "THEMES/Greybird"]
 	path = THEMES/Greybird
 	url = https://github.com/shimmerproject/Greybird
+	shallow = true
 [submodule "THEMES/Arc-theme"]
 	path = THEMES/Arc
 	url = https://github.com/horst3180/Arc-theme
+	shallow = true
 [submodule "THEMES/zuki-themes"]
 	path = THEMES/zuki-themes
 	url = https://github.com/lassekongo83/zuki-themes
+	shallow = true
 [submodule "bunsen-themes"]
 	path = THEMES/bunsen-themes
 	url = https://github.com/BunsenLabs/bunsen-themes
+	shallow = true
 [submodule "THEMES/deb8-theme"]
 	path = THEMES/deb8-theme
 	url = https://github.com/BunsenLabs/deb8-theme
+	shallow = true
 [submodule "ICONS/moka-icon-theme"]
 	path = ICONS/moka-icon-theme
 	url = https://github.com/snwh/moka-icon-theme
+	shallow = true
 [submodule "ICONS/numix-icon-theme-utouch"]
 	path = ICONS/numix-icon-theme-utouch
 	url = https://github.com/numixproject/numix-icon-theme-utouch
+	shallow = true
 [submodule "ICONS/numix-icon-theme-shine"]
 	path = ICONS/numix-icon-theme-shine
 	url = https://github.com/numixproject/numix-icon-theme-shine
+	shallow = true
 [submodule "ICONS/numix-icon-theme"]
 	path = ICONS/numix-icon-theme
 	url = https://github.com/numixproject/numix-icon-theme
+	shallow = true
 [submodule "ICONS/numix-icon-theme-circle"]
 	path = ICONS/numix-icon-theme-circle
 	url = https://github.com/numixproject/numix-icon-theme-circle
+	shallow = true
 [submodule "ICONS/flattr-icons"]
 	path = ICONS/flattr-icons
 	url = https://github.com/NitruxSA/flattr-icons
+	shallow = true
 [submodule "ICONS/pacifica-icon-theme"]
 	path = ICONS/pacifica-icon-theme
 	url = https://github.com/fsvh/pacifica-icon-theme
+	shallow = true
 [submodule "THEMES/mint-y-theme"]
 	path = THEMES/mint-y-theme
 	url = https://github.com/linuxmint/mint-y-theme
+	shallow = true
 [submodule "THEMES/mint-themes-gtk3"]
 	path = THEMES/mint-themes-gtk3
 	url = https://github.com/linuxmint/mint-themes-gtk3
+	shallow = true
 [submodule "ICONS/mint-y-icons"]
 	path = ICONS/mint-y-icons
 	url = https://github.com/linuxmint/mint-y-icons
+	shallow = true
 [submodule "ICONS/mint-x-icons"]
 	path = ICONS/mint-x-icons
 	url = https://github.com/linuxmint/mint-x-icons
+	shallow = true
 [submodule "ICONS/elementary-xfce"]
 	path = ICONS/elementary-xfce
 	url = https://github.com/shimmerproject/elementary-xfce
+	shallow = true
 [submodule "ICONS/evil-icons"]
 	path = ICONS/evil-icons
 	url = https://github.com/outpunk/evil-icons
+	shallow = true
 [submodule "THEMES/paper-gtk-theme"]
 	path = THEMES/paper-gtk-theme
 	url = https://github.com/snwh/paper-gtk-theme
+	shallow = true
 [submodule "THEMES/Centauri"]
 	path = THEMES/Centauri
 	url = https://github.com/vval/centauri_gtk_theme
+	shallow = true
 [submodule "ICONS/Super-Flat-Remix"]
 	path = ICONS/Super-Flat-Remix
 	url = https://github.com/daniruiz/Super-Flat-Remix
+	shallow = true
 [submodule "THEMES/Adapta"]
 	path = THEMES/Adapta
 	url = https://github.com/tista500/Adapta
+	shallow = true
 [submodule "xresources/crayolo"]
 	path = xresources/crayolo
 	url = https://github.com/dkeg/crayolo
+	shallow = true
 [submodule "ICONS/faba-mono-icons"]
 	path = ICONS/faba-mono-icons
 	url = https://github.com/moka-project/faba-mono-icons
+	shallow = true
 [submodule "ICONS/faba-icon-theme"]
 	path = ICONS/faba-icon-theme
 	url = https://github.com/moka-project/faba-icon-theme
+	shallow = true
 [submodule "ICONS/luv-icon-theme"]
 	path = ICONS/luv-icon-theme
 	url = https://github.com/NitruxSA/luv-icon-theme
+	shallow = true
 [submodule "ICONS/CaptainIcon"]
 	path = ICONS/CaptainIcon
 	url = https://github.com/mariodelvalle/CaptainIcon
+	shallow = true
 [submodule "ICONS/vertex-icons"]
 	path = ICONS/vertex-icons
 	url = https://github.com/horst3180/vertex-icons
+	shallow = true
 [submodule "THEMES/vertex-theme"]
 	path = THEMES/vertex-theme
 	url = https://github.com/horst3180/vertex-theme
+	shallow = true
 [submodule "ICONS/papirus-icon-theme-gtk"]
 	path = ICONS/papirus-icon-theme-gtk
 	url = https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+	shallow = true
 [submodule "ICONS/victory-icon-theme"]
 	path = ICONS/victory-icon-theme
 	url = https://github.com/newhoa/victory-icon-theme
