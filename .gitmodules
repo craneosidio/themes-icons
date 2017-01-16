@@ -169,3 +169,4 @@
 [submodule "ICONS/victory-icon-theme"]
 	path = ICONS/victory-icon-theme
 	url = https://github.com/newhoa/victory-icon-theme
+	shallow = true
