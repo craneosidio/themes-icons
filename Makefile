@@ -8,4 +8,4 @@ update:
 	git submodule foreach git pull
 	git add .
 	git commit -m "update submodules"
-    git submodule foreach git checkout -- .
+	git submodule foreach git checkout -- .
