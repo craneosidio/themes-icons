@@ -170,3 +170,11 @@
 	path = ICONS/victory-icon-theme
 	url = https://github.com/newhoa/victory-icon-theme
 	shallow = true
+[submodule "THEMES/Ceti-2-theme"]
+	path = THEMES/Ceti-2-theme
+	url = https://github.com/horst3180/Ceti-2-theme
+	shallow = true
+[submodule "ICONS/paper-icon-theme"]
+	path = ICONS/paper-icon-theme
+	url = https://github.com/snwh/paper-icon-theme
+	shallow = true
