@@ -178,3 +178,9 @@
 	path = ICONS/paper-icon-theme
 	url = https://github.com/snwh/paper-icon-theme
 	shallow = true
+[submodule "ICONS/diagona-icons-1.0"]
+	path = ICONS/diagona-icons-1.0
+	url = https://github.com/nodiscc/diagona-icons-1.0
+[submodule "ICONS/minicons"]
+	path = ICONS/minicons
+	url = https://github.com/nodiscc/minicons
