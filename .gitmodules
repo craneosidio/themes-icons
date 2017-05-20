@@ -184,3 +184,18 @@
 [submodule "ICONS/minicons"]
 	path = ICONS/minicons
 	url = https://github.com/nodiscc/minicons
+[submodule "ICONS/linecons"]
+	path = ICONS/linecons
+	url = https://github.com/nodiscc/linecons
+[submodule "ICONS/silk-icons"]
+	path = ICONS/silk-icons
+	url = https://github.com/nodiscc/silk-icons
+[submodule "ICONS/linea-icons"]
+	path = ICONS/linea-icons
+	url = https://github.com/nodiscc/linea-icons
+[submodule "ICONS/hexagrama-icons"]
+	path = ICONS/hexagrama-icons
+	url = https://github.com/nodiscc/hexagrama-icons
+[submodule "ICONS/project-icons"]
+	path = ICONS/project-icons
+	url = https://github.com/nodiscc/project-icons
