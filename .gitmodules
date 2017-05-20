@@ -199,3 +199,15 @@
 [submodule "ICONS/project-icons"]
 	path = ICONS/project-icons
 	url = https://github.com/nodiscc/project-icons
+[submodule "ICONS/glyph-iconset"]
+	path = ICONS/glyph-iconset
+	url = https://github.com/frexy/glyph-iconset/
+[submodule "ICONS/fugue-icons"]
+	path = ICONS/fugue-icons
+	url = https://github.com/nodiscc/fugue-icons
+[submodule "ICONS/falcon-icons"]
+	path = ICONS/falcon-icons
+	url = https://github.com/nodiscc/falcon-icons
+[submodule "ICONS/blawb-icons"]
+	path = ICONS/blawb-icons
+	url = https://github.com/nodiscc/blawb-icons
