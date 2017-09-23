@@ -3,10 +3,8 @@
 all: update
 
 update:
-	-git submodule update
+	git fetch
+	git submodule update --init
 	-git submodule foreach git checkout master
 	-git submodule foreach git branch --set-upstream-to=origin/master master
-	-git submodule foreach git pull
-	-git add .
-	-git commit -m "update submodules"
-	-git submodule foreach git checkout -- .
+	git submodule foreach git pull
